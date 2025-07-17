@@ -3,6 +3,7 @@ GROUP NUMBER :2
 
 Members:  
 -Cliff Akpa Anum
+
 -Link1zee
 
 Topic : Inheritance
@@ -15,38 +16,38 @@ It establishes an "is-a" relationship, enabling code reuse, polymorphism, and hi
 
 Instructions for running my code::
 
-(Include Required Libraries
+( 1. Include Required Libraries
 
-Add <iostream> for input/output operations.
+2.Add <iostream> for input/output operations.
 
-Add <string> to use string data type.
+3.Add <string> to use string data type.
 
-Use namespace std to avoid typing std:: repeatedly.
+4.Use namespace std to avoid typing std:: repeatedly.
 
-Create the Base Class (Vehicle)
+5.Create the Base Class (Vehicle)
 
-Define a class named Vehicle.
+6.Define a class named Vehicle.
 
-Inside it:
+7.Inside it:
 
-Declare a public string variable brand with the default value "Ford".
+8.Declare a public string variable brand with the default value "Ford".
 
-Define a public method honk() that prints "Tuut, tuut!" followed by a newline.
+9.Define a public method honk() that prints "Tuut, tuut!" followed by a newline.
 
-Create the Derived Class (Car)
+10.Create the Derived Class (Car)
 
-Define a class named Car that publicly inherits from Vehicle.
+11.Define a class named Car that publicly inherits from Vehicle.
 
-Inside it:
+12.Inside it:
 
-Declare a public string variable model with the default value "Mustang".
+13.Declare a public string variable model with the default value "Mustang".
 
-Write the main() Function
+14.Write the main() Function
 
-Create an object myCar of type Car.
+15.Create an object myCar of type Car.
 
-Call the inherited method myCar.honk() (prints "Tuut, tuut!").
+16.Call the inherited method myCar.honk() (prints "Tuut, tuut!").
 
-Print myCar.brand (inherited from Vehicle) and myCar.model (from Car), separated by a space.)
+17.Print myCar.brand (inherited from Vehicle) and myCar.model (from Car), separated by a space.)
 
-The above are the insructions for my code.
+18.The above are the insructions for my code.
