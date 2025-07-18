@@ -1,4 +1,3 @@
-Composition Over Inheritance
 
 GROUP 5
 
