@@ -15,6 +15,6 @@ Polymorphism helps increased code reusability, flexibility, and maintainability.
 
 Instructions for running my code:
 
-Creat three different classes with the same method(move()) and showed that it can be used for all three classees
+Create three different classes with the same method(move()) and show that it can be used for all three classes.
 
 
